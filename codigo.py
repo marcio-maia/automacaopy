@@ -1,4 +1,12 @@
 # Passo a passo do sistema
+#   Bibliotacas:
+#       pyautogui
+import pyautogui
+
+#   pyautogui.click -> Clicar com o mouse
+#   pyautogui.write -> Escrever um texto
+#   pyautogui.press -> Pressionar uma tecla do windows
+
 #   1. Abrir o sistema da empresa
 #       Abrir o navegardor (chrome)
 #       Entrar no sistema da empresa
