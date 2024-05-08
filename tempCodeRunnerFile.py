@@ -1,0 +1,1 @@
+https://platform.senior.com.br/login/?redirectTo=https%3A%2F%2Fplatform.senior.com.br%2Fsenior-x%2F&tenant=plansulsc.com.br
